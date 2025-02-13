@@ -2,7 +2,7 @@
   "id": "cha-coc-fvtt-en-quickstart",
   "title": "Call of Cthulhu® - Quick-Start Rules",
   "description": "",
-  "version": "1.0.0",
+  "version": "5.0.0",
   "compatibility": {
     "minimum": "12",
     "verified": "12"
@@ -86,5 +86,5 @@
   "socket": true,
   "url": "https://github.com/Miskatonic-Investigative-Society/cha-coc-fvtt-en-quickstart",
   "manifest": "https://github.com/Miskatonic-Investigative-Society/cha-coc-fvtt-en-quickstart/releases/latest/download/module.json",
-  "download": "https://github.com/Miskatonic-Investigative-Society/cha-coc-fvtt-en-quickstart/releases/download/1.0.0/module.zip"
+  "download": "https://github.com/Miskatonic-Investigative-Society/cha-coc-fvtt-en-quickstart/releases/download/5.0.0/module.zip"
 }
