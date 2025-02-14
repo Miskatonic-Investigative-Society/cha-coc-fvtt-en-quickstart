@@ -28,7 +28,7 @@
         "id": "CoC7",
         "type": "system",
         "compatibility": {
-          "minimum": "7.0"
+          "minimum": "7.8"
         }
       }
     ]
