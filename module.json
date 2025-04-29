@@ -2,10 +2,10 @@
   "id": "cha-coc-fvtt-en-quickstart",
   "title": "Call of Cthulhu® - Quick-Start Rules",
   "description": "",
-  "version": "5.0.2",
+  "version": "5.0.3",
   "compatibility": {
     "minimum": "12",
-    "verified": "12"
+    "verified": "13"
   },
   "authors": [
     {
@@ -28,14 +28,14 @@
         "id": "CoC7",
         "type": "system",
         "compatibility": {
-          "minimum": "7.8"
+          "minimum": "7.13"
         }
       }
     ]
   },
   "packFolders": [
     {
-      "name": "Quick-Start Rules | en",
+      "name": "Quick-Start Rules | EN",
       "sorting": "m",
       "color": "#4a49a2",
       "packs": [
@@ -72,7 +72,7 @@
     },
     {
       "name": "roll-tables",
-      "label": "Roll Tables | en",
+      "label": "Roll Tables | EN",
       "path": "packs/en-roll-tables",
       "type": "RollTable",
       "system": "CoC7",
@@ -86,5 +86,5 @@
   "socket": true,
   "url": "https://github.com/Miskatonic-Investigative-Society/cha-coc-fvtt-en-quickstart",
   "manifest": "https://github.com/Miskatonic-Investigative-Society/cha-coc-fvtt-en-quickstart/releases/latest/download/module.json",
-  "download": "https://github.com/Miskatonic-Investigative-Society/cha-coc-fvtt-en-quickstart/releases/download/5.0.2/module.zip"
+  "download": "https://github.com/Miskatonic-Investigative-Society/cha-coc-fvtt-en-quickstart/releases/download/5.0.3/module.zip"
 }
